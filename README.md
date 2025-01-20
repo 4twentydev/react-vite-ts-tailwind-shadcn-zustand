@@ -21,7 +21,7 @@ We'll be using React 19, React Router, Tailwind CSS, shadcn/ui, ESLint with Pret
    ```
 3. Start the development server:
    ```bash
-   npm install
+   npm run dev
    ```
 ## Rebuild the process (Base on https://dev.to/manojspace/creating-a-modern-react-app-a-comprehensive-guide-1plk)
 
